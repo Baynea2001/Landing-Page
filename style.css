@@ -1,0 +1,13 @@
+/* This is to break the webpage into three verticle boxes with rows of boxes in each one of the main boxes */
+
+/* This is for the top ROW of boxes*/
+.head-container {
+    display: flex;
+    font-size: 24px;
+    color:#F9FAF8;
+}
+
+.head-container h3 {
+    color: #E5E7EB;
+    font-size: 18px;
+}
