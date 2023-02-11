@@ -1,8 +1,8 @@
 /* This is to break the webpage into three verticle boxes with rows of boxes in each one of the main boxes */
-.main-contianer {
+/*.main-contianer {
     flex-direction:column;
     flex: 1 1 auto;
-}
+}*/
 /* This is for the top ROW of boxes*/
 .head-container {
     display: flex;
