@@ -6,7 +6,7 @@
 /* This is for the top ROW of boxes*/
 .head-container {
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     align-items: flex-start;
     /* font-size: 24px; */
      /* color:#F9FAF8; */
