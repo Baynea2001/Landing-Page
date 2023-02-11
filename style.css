@@ -6,10 +6,14 @@
 /* This is for the top ROW of boxes*/
 .head-container {
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-end;
     align-items: flex-start;
     /* font-size: 24px; */
      /* color:#F9FAF8; */
+}
+
+.header-logo {
+    gap: 50;
 }
 
 .head-container div {
