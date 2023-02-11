@@ -6,11 +6,12 @@
 /* This is for the top ROW of boxes*/
 .head-container {
     display: flex;
-    font-size: 24px;
-    color:#F9FAF8;
+    /* font-size: 24px; */
+     /* color:#F9FAF8; */
 }
 
 .head-container h3 {
     color: #E5E7EB;
     font-size: 18px;
+    flex:1;
 }
