@@ -37,17 +37,19 @@
 
 .flexbox-item {
     border: 3px solid black;
-    background-color: red;
 }
 
 .flexbox-item-1 {
     min-height: 200px;
+    background-color: white;
 } 
 .flexbox-item-2 {
     min-height: 200px;
+    background-color: lightgrey;
 
 }
-.flexbox-item-3 {
-    min-height: 200px;
+.flexbox-item-4 {
+    max-height: 200px;
+    background-color: white;
    
 }
