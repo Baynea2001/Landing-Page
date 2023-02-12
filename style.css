@@ -30,8 +30,8 @@
     width: 25x;
 }*/
 body{
-    height: 200px;
-    width: 200px;
+    height: 800px;
+    width: 800px;
     background:linear-gradient(to bottom,darkgrey 0%, darkgrey 30%,white 30%,white 60%, lightgrey 60%,lightgrey 90%,white 90%,white 100%);
 
 }
