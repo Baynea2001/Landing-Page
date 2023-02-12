@@ -41,12 +41,17 @@
 
 .flexbox-item-1 {
     min-height: 200px;
-    background-color: white;
+    background-color: darkgrey;
 } 
 .flexbox-item-2 {
     min-height: 200px;
-    background-color: lightgrey;
+    background-color: white;
 
+}
+.flexbox-item-3 {
+    min-height: 200px;
+    background-color: lightgrey;
+   
 }
 .flexbox-item-4 {
     min-height: 200px;
