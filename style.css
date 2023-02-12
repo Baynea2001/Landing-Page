@@ -29,6 +29,10 @@
     flex:1 1 0;
     width: 25x;
 }*/
+body{
+background-color: blueviolet;
+}
+
 .flexbox-container {
     display:flex;
     flex-direction: column;
