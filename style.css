@@ -54,7 +54,7 @@
    
 }
 .flexbox-item-4 {
-    min-height: 200px;
+    max-height: 150px;
     background-color: white;
    
 }
