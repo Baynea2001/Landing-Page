@@ -35,7 +35,10 @@
     flex: 1 1 1;
     height: 100%;
     background-color: blue;
+    padding: 0%;
+    margin: 0%;
 }
+
 
 .flexbox-item {
     border: 3px solid black;
