@@ -1,15 +1,21 @@
-/* This is to break the webpage into three verticle boxes with rows of boxes in each one of the main boxes */
-/*.main-contianer {
+.main-contianer {
     flex-direction:column;
     flex: 1 1 auto;
-}*/
-/* This is for the top ROW of boxes*/
+}
+
+.main-contianer img {
+    width: 50px;
+    height: 50px;
+    margin-right: auto; 
+
+
+}
 .head-container {
     display: flex;
     justify-content: flex-end;
-    /*align-items: flex-start;*/
-    /* font-size: 24px; */
-     /* color:#F9FAF8; */
+    align-items: flex-start;
+    font-size: 24px; 
+    color:#F9FAF8; 
 }
 
 .header-logo {
@@ -18,7 +24,7 @@
 
 .head-container div {
     color: #E5E7EB;
-    background-color: grey;
+    background-color: blue;
     font-size: 18px;
     flex:1 1 0;
     width: 25x;
