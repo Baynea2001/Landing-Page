@@ -42,13 +42,13 @@
 }
 
 .flexbox-item-1 {
-    min-height: auto;
+    min-height: 200px;
 } 
 .flexbox-item-2 {
-    min-height: auto;
+    min-height: 200px;
 
 }
 .flexbox-item-3 {
-    min-height: auto;
+    min-height: 200px;
    
 }
