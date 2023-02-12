@@ -34,6 +34,7 @@
     flex-direction: column;
     flex: 1 1 1;
     height: 100%;
+    background-color: blue;
 }
 
 .flexbox-item {
@@ -41,22 +42,22 @@
 }
 
 .flexbox-item-1 {
-    min-height: 350px;
+    min-height: 30%;
     background-color: darkgrey;
     flex-basis: 30%;
 } 
 .flexbox-item-2 {
-    min-height: 350px;
+    min-height: 30%;
     background-color: white;
     flex-basis: 30%;
 }
 .flexbox-item-3 {
-    min-height: 350px;
+    min-height: 30%;
     background-color: lightgrey;
     flex-basis: 30%;
 }
 .flexbox-item-4 {
-    min-height: 50px;
+    min-height: 10%;
     background-color: white;
    
 }
