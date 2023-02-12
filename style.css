@@ -32,7 +32,7 @@
 .flexbox-container {
     display:flex;
     flex-direction: column;
-    flex: 1;
+    flex: 1 1 1;
 }
 
 .flexbox-item {
