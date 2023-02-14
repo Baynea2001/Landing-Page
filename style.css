@@ -52,35 +52,34 @@ body{
 }
 
 .flexbox-item-1 {
-    min-height: 250px;
-    min-width: 500px;
+    min-height: 25%;
+    min-width: fit-content;
     background-color: darkgrey;
     flex-basis: 30%;
 } 
 .flexbox-item-2 {
-    min-height: 250px;
+    min-height: 25%;
     background-color: white;
     flex-basis: 30%;
-    min-width: 500px;
+    min-width: fit-content;
 
 }
 .flexbox-item-3 {
-    min-height: 250px;
+    min-height: 25%;
     background-color: lightgrey;
     flex-basis: 30%;
-    min-width: 500px;
+    min-width: fit-content;
 
 }
 .flexbox-item-4 {
-    min-height: 175px;
+    min-height: 15;
     background-color: white;
-    min-width: 500px;
-
+    min-width: fit-content;
 }
 
 .flexbox-item-5 {
-    min-height: 100px;
+    min-height: 10%;
     background-color: black;
-    min-width: 500px;
+    min-width: fit-content;
   
 }
