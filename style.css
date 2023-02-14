@@ -52,8 +52,8 @@ body{
 }
 
 .flexbox-item-1 {
-    min-height: 25%;
-    /*min-width: fit-content;*/
+    min-height: 30%%;
+    min-width: 100%;
     background-color: darkgrey;
     flex-basis: 30%;
 } 
@@ -61,25 +61,25 @@ body{
     min-height: 25%;
     background-color: white;
     flex-basis: 30%;
-    /*min-width: fit-content;*/
+    min-width: 100%;
 
 }
 .flexbox-item-3 {
     min-height: 25%;
     background-color: lightgrey;
     flex-basis: 30%;
-   /*min-width: fit-content;*/
+    min-width: 100%;
 
 }
 .flexbox-item-4 {
     min-height: 15%;
     background-color: white;
-    /*min-width: fit-content;*/
+    min-width: 100%;
 }
 
 .flexbox-item-5 {
     min-height: 10%;
     background-color: black;
-    /*min-width: fit-content;*/
+    min-width: 100%;
   
 }
