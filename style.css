@@ -50,7 +50,9 @@ body{
         #E5E7EB 50%,
         #E5E7EB 70%,
         white 70%,
-        white 100%
+        white 90%,
+        black 90%,
+        black 100%
     );
 
 }
