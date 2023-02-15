@@ -33,7 +33,7 @@ html{
     min-height: 100%;
     position:relative;
   }
-  
+
 body{
     margin: 0;
     padding: 0;
@@ -46,7 +46,9 @@ body{
         darkgrey 0%,
         darkgrey 50%,
         red 50%,
-        red 100%
+        red 75%,
+        yellow 75%,
+        yellow 100%
     );
 
 }
