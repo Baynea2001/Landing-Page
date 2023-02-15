@@ -49,8 +49,8 @@ body{
         white 50%,
         #E5E7EB 50%,
         #E5E7EB 75%
-        white 75%,
-        white 100%
+        red 75%,
+        red 100%
     );
 
 }
