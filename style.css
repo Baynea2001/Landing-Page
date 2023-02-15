@@ -37,9 +37,15 @@ body{
     background:linear-gradient(
         to bottom,
         darkgrey 0%,
-        darkgrey 50%,
+        darkgrey 25%,
+        red 25%,
         red 50%,
-        red 100%
+        blue 50%,
+        blue 75%,
+        orange 75%,
+        orange 95%,
+        black 95%,
+        black 100%
     );
 
 }
