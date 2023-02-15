@@ -32,16 +32,17 @@
 body{
     margin: 0;
     padding: 0;
-   /* height:700px;
-    width: 1500px;*/
+   height:700px;
+    width: 1500px;
     background:linear-gradient(
         to bottom,
         black 25%,
-        red 25%,
-        red 50%,
+        white 25%,
+        white 50%,
         blue 50%,
         blue 75%,
-        yellow 75%
+        yellow 75%,
+        yellow 125%
     );
 
 }
