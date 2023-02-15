@@ -36,8 +36,7 @@ body{
     width: 1500px;
     background:linear-gradient(
         to bottom,
-        darkgrey 0%,
-        darkgrey 25%,
+        black 25%,
         red 25%,
         red 50%,
         blue 50%,
