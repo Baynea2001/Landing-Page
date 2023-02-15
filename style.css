@@ -34,6 +34,14 @@ body{
     padding: 0;
     height:700px;
     width: 1500px;
+    background:linear-gradient(
+        to bottom,
+        darkgrey 0%,
+        darkgrey 50%,
+        red 50%,
+        red 100%
+    );
+
 }
 
 .flexbox-container {
@@ -54,32 +62,32 @@ body{
 .flexbox-item-1 {
     min-height: 28%;
     min-width: 500px;
-    background-color: darkgrey;
+  /*  background-color: darkgrey;*/
     flex-basis: 30%;
 } 
 .flexbox-item-2 {
     min-height: 28%;
-    background-color: white;
+   /*  background-color: white;*/
     flex-basis: 30%;
     min-width: 500px;
 
 }
 .flexbox-item-3 {
     min-height: 28%;
-    background-color: lightgrey;
+   /*  background-color: lightgrey;*/
     flex-basis: 30%;
     min-width: 500px;
 
 }
 .flexbox-item-4 {
     min-height: 20%;
-    background-color: white;
+   /*  background-color: white;*/
     min-width: 500px;
 }
 
 .flexbox-item-5 {
     min-height: 5%;
-    background-color: black;
+   /*  background-color: black;*/
     min-width: 500px;
   
 }
