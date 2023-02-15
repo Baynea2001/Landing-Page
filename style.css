@@ -43,12 +43,14 @@ body{
     width: 1500px;*/
     background:linear-gradient(
         to bottom,
-        darkgrey 0%,
-        darkgrey 50%,
-        red 50%,
-        red 75%,
-        yellow 75%,
-        yellow 100%
+        #1f2937 0%,
+        #1f2937 25%,
+        white 25%,
+        white 50%,
+        #E5E7EB 50%,
+        #E5E7EB 75%
+        white 75%,
+        white 100%
     );
 
 }
