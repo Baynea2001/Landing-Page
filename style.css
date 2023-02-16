@@ -142,4 +142,5 @@ color: #E5E7EB;
 .button {
     background-color: #3882f6;
     color: white;
+    border-radius: 12px;
 }
