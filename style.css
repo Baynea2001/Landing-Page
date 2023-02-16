@@ -127,14 +127,18 @@ img {
     display: flex;
     flex: 1 1 0;
     flex-direction: row;
-    justify-content: end;
+    justify-content: flex-end;
     
 }
 
 .header-logo {
-font-size: 24px;
-color: #F9FAF8;
-justify-content: start;
+    display: flex;
+    flex: 1 1 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    font-size: 24px;
+    color: #F9FAF8;
+
 }
 
 .header {
