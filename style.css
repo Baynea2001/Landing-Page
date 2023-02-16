@@ -74,35 +74,35 @@ body{
 }
 
 .flexbox-item-1 {
-    min-height: 28%;
-    min-width: 500px;
+    /*min-height: 28%;*/
+    /*min-width: 500px;*/
   /*  background-color: darkgrey;*/
-    flex-basis: 30%;
+    /*flex-basis: 30%;*/
 } 
 .flexbox-item-2 {
-    min-height: 28%;
+    /*min-height: 28%;*/
    /*  background-color: white;*/
-    flex-basis: 30%;
-    min-width: 500px;
+    /*flex-basis: 30%;*/
+    /*min-width: 500px;*/
 
 }
 .flexbox-item-3 {
-    min-height: 28%;
+    /*min-height: 28%;*/
    /*  background-color: lightgrey;*/
-    flex-basis: 30%;
-    min-width: 500px;
+    /*flex-basis: 30%;*/
+    /*min-width: 500px;*/
 
 }
 .flexbox-item-4 {
-    min-height: 20%;
+    /*min-height: 20%;*/
    /*  background-color: white;*/
-    min-width: 500px;
+   /*min-width: 500px;*/
 }
 
 .flexbox-item-5 {
-    min-height: 5%;
+    /*min-height: 5%;*/
    /*  background-color: black;*/
-    min-width: 500px;
+    /*min-width: 500px;*/
   
 }
 .copyright {
