@@ -130,6 +130,7 @@ img {
     justify-content: flex-end;
     gap: 15px;
     margin: 1;
+    background-color: red;
 }
 
 .header-logo {
