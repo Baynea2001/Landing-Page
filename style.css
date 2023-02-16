@@ -113,13 +113,29 @@ body{
 }
 
 img {
-    height: 75px;
-    width: 75px;
+    height: 250px;
+    width: 375px;
 }
 
 .introduction-container {
     font-size: 48px;
     font-weight: 900;
     color: #F9FAF8;
-    
+
+}
+
+.head-container {
+    display: flex;
+    flex: 1 1 0;
+    flex-direction: row;
+}
+
+.header-logo {
+font-size: 24px;
+color: #F9FAF8;
+}
+
+.header {
+font-size: 18px;
+color: #E5E7EB;
 }
