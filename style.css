@@ -129,7 +129,7 @@ img {
     flex-direction: row;
     justify-content: flex-end;
     gap: 15px;
-    align-content: center;
+    margin: 5;
 }
 
 .header-logo {
