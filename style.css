@@ -123,11 +123,11 @@ img {
     color: #F9FAF8;
 }
 
-.head-container {
-    /*display: flex;
+/*.head-container {
+    display: flex;
     flex: 1 1 0;
     flex-direction: row;
-    justify-content: flex-end;*/
+    justify-content: flex-end;
     display: inline-block;
     direction: row;
     gap: 15px;
@@ -144,6 +144,18 @@ img {
 .header {
 font-size: 18px;
 color: #E5E7EB;
+}*/
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+
+}
+
+li {
+    display: inline-block;
+    margin: 20px;
 }
 
 .button {
