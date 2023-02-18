@@ -6,11 +6,3 @@ The beautiful picture of the forest I include in this webpage can be found at ht
 The photo is found on the profile ~CharlVera
 user_id:11040068
 https://pixabay.com/users/charlvera-11040068/
-
-
- <div class="head-container">
-        <div class="header-logo">Header Logo</div>
-        <div class="header">Header One</div>
-        <div class="header">Header Two</div>
-        <div class="header">Header Three</div>
-    </div>
