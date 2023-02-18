@@ -101,7 +101,7 @@ body{
   }
 
   .introduction-container{
-    background: blue;
+    background: green;
     padding: 5px;
     width: 500px;
     height: 80px;
@@ -112,18 +112,7 @@ body{
     text-align: center;
   }
   
-  .header {
-    background: blue;
-    padding: 5px;
-    width: 500px;
-    height: 80px;
-    line-height: 50px;
-    color: #E5E7EB;
-    font-weight: bold;
-    font-size: 18px;
-    text-align: center;
-  }
-  
+
   
 /*.flexbox-container {
     display:flex;
