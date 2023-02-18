@@ -67,7 +67,7 @@ body{
   }
   
   .flex-item {
-    background: tomato;
+    background: blue;
     padding: 5px;
     width: 500px;
     height: 80px;
@@ -79,7 +79,7 @@ body{
   }
   
   .flex-items {
-    background: tomato;
+    background: blue;
     padding: 5px;
     width: 500px;
     height: 150px;
