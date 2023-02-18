@@ -100,7 +100,7 @@ body{
     list-style-type: none;
   }
 
-  .introduction-container{
+  /*.introduction-container{
     background: green;
     padding: 5px;
     width: 500px;
@@ -110,7 +110,7 @@ body{
     font-weight: bold;
     font-size: 18px;
     text-align: center;
-  }
+  }*/
   
   .main-container{
     display: flex;
@@ -121,6 +121,7 @@ body{
     list-style-type: none; 
 }
 .introduction-container{
+    background: red;
     margin:0px;
     line-height: 50px;
     color: #E5E7EB;
@@ -130,6 +131,7 @@ body{
   }
 
 .header{
+   background: red;
     padding: 1px;
    line-height: 50px;
     color: #E5E7EB;
