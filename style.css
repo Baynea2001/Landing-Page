@@ -83,7 +83,6 @@ body{
     color: #E5E7EB;
     font-weight: bold;
     font-size: 48px;
-    
   }
 
 .header{
@@ -93,8 +92,7 @@ body{
     color: #E5E7EB;
     font-weight: 900;
     font-size: 18px;
-    
- 
+    line-height: 20px;
 }
 .button {
     background-color: #3882f6;
