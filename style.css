@@ -214,7 +214,7 @@ body{
 img {
     height: 200px;
     width: 400px;
-    margin-left: 100px;
+    margin-top:0px;
 }
 
 .quote {
