@@ -207,11 +207,14 @@ body{
     color: purple;
     font-size: medium;
 }
-
+.big-flex{
+    display:flex;
+    flex-direction: row;
+}
 img {
     height: 200px;
     width: 400px;
-    margin-left: 1000px;
+    margin-left: 100px;
 }
 
 .quote {
