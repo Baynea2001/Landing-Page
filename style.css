@@ -106,6 +106,63 @@ body{
     height:50px;
    
 }
+.random{
+    display: flex;
+    flex-direction:row;
+    justify-content:center;
+    padding: 0;
+    margin: 0px;
+    list-style-type: none; 
+    background: purple;
+    width:1000px;
+    height:100px;
+   margin-left:450px;
+}
+
+.information {
+  color:#1F2937;
+  font-weight:900;
+  font-size:36px;
+}
+
+.outlines {
+  display:flex;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  gap:75px;
+}
+
+.box {
+  border-style:solid;
+  border-color:blue;
+  border-radius:20px;
+  padding: 5px;
+  width: 175px;
+  height: 175px;
+}
+
+ .illustrations{
+    display: flex;
+    flex-direction:row;
+    justify-content:center;
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none; 
+    background: orange;
+    height:150px;
+   justify-content:center;
+   align-items:start;
+   gap:100px;
+}
+
+.flexer{
+    margin:0px;
+    line-height: 50px;
+    color: grey;
+    font-size: 18px;
+  }
 
 .call-to-action {
     display: flex;
