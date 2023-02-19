@@ -34,7 +34,7 @@ body{
   }
   
   .flex-item {
-    background: blue;
+    /*background: blue;*/
     padding: 5px;
     width: 500px;
     height: 80px;
@@ -46,7 +46,7 @@ body{
   }
   
   .flex-items {
-    background: blue;
+    /*background: blue;*/
     padding: 5px;
     width: 500px;
     height: 80px;
@@ -77,7 +77,7 @@ body{
     list-style-type: none; 
 }
 .introduction-container{
-    background: red;
+    /*background: red;*/
     margin:0px;
     line-height: 50px;
     color: #E5E7EB;
@@ -87,7 +87,7 @@ body{
   }
 
 .header{
-   background: red;
+   /*background: red;*/
     padding: 1px;
    line-height: 50px;
     color: #E5E7EB;
@@ -97,7 +97,7 @@ body{
  
 }
 .button {
-    background-color: #3882f6;
+    /*background-color: #3882f6;*/
     color: white;
     border-radius: 4px;
     border: none;
@@ -113,7 +113,7 @@ body{
     padding: 0;
     margin: 0px;
     list-style-type: none; 
-    background: purple;
+    /*background: purple;*/
     width:1000px;
     height:100px;
    margin-left:450px;
@@ -150,7 +150,7 @@ body{
     padding: 0px;
     margin: 0px;
     list-style-type: none; 
-    background: orange;
+    /*background: orange;*/
     height:150px;
    justify-content:center;
    align-items:start;
@@ -171,9 +171,9 @@ body{
     padding: 0;
     margin: 20px;
     list-style-type: none; 
-    background: #3882F6;
+    /*background: #3882F6;*/
     width:1000px;
-    height:150px;
+    height:150px;  
    
 }
 .head {
@@ -195,7 +195,7 @@ body{
 
 .button-2 {
     align-item:center;
-    background: #3882F6;
+    /*background: #3882F6;*/
     height:30px;
     width:150px;
 }
