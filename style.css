@@ -100,8 +100,8 @@ body{
     color: white;
     border-radius: 8px;
     font-size: 18px;
-    width:150px;
-    height:50px;
+    width:120px;
+    height:40px;
    
 }
 .random{
@@ -113,14 +113,16 @@ body{
     list-style-type: none; 
     /*background: purple;*/
     width:1000px;
-    height:100px;
+    height:40px;
    margin-left:450px;
+   margin-top: 0px;
 }
 
 .information {
   color:#1F2937;
   font-weight:900;
   font-size:36px;
+  margin-top:0px;
 }
 
 .outlines {
