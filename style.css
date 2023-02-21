@@ -88,12 +88,13 @@ body{
 .header{
    /*background: red;*/
     padding: 1px;
-   line-height: 50px;
     color: #E5E7EB;
     font-weight: 900;
     font-size: 18px;
     line-height: 20px;
+    margin-top: 0px;
 }
+
 .button {
     background-color: #3882f6;
     color: white;
@@ -173,6 +174,7 @@ body{
     background: #3882F6;
     width:1000px;
     height:150px;  
+    line-height:20px;
    
 }
 .head {
@@ -205,6 +207,7 @@ body{
     align-items: center;
     color: purple;
     font-size: medium;
+    margin-top: 0px;
 }
 .big-flex{
     display:flex;
