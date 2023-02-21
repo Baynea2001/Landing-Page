@@ -75,6 +75,7 @@ body{
     padding: 0;
     margin: 0;
     list-style-type: none; 
+    margin-left:300px;
 }
 .introduction-container{
     /*background: red;*/
@@ -83,7 +84,6 @@ body{
     color: #E5E7EB;
     font-weight: bold;
     font-size: 48px;
-    margin-left:300px;
   }
 
 .header{
