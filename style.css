@@ -11,8 +11,8 @@ body{
     background:linear-gradient(
         to bottom,
         #1f2937 0%,
-        #1f2937 35%,
-        white 35%,
+        #1f2937 32%,
+        white 32%,
         white 65%,
         #E5E7EB 65%,
         #E5E7EB 75%,
@@ -223,7 +223,7 @@ body{
     flex-direction: row;
 }
 img {
-    height: 150px;
+    height: 200px;
     width: 400px;
     margin-top:0px;
     margin-left:50px;
@@ -236,4 +236,5 @@ img {
     color:#1F2937;
     font-style:italic;
     margin-top: 0px;
+    padding: 0px;
 }
