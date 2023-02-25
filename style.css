@@ -99,21 +99,22 @@ body{
     color: white;
     border-radius: 8px;
     font-size: 18px;
-    width:120px;
-    height:30px;
+    width:110px;
+    height:25px;
+    border:grey;
 }
 .random{
     display: flex;
     flex-direction:row;
     justify-content:center;
-    padding: 0;
+    padding: 0px;
     margin: 0px;
     list-style-type: none; 
     /*background: purple;*/
     width:1000px;
     height:40px;
    margin-left:450px;
-   margin-top: 3px;
+   margin-top: 1px;
 }
 
 .information {
@@ -234,4 +235,5 @@ img {
     font-size: 36px;
     color:#1F2937;
     font-style:italic;
+    margin-top: 0px;
 }
