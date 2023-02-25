@@ -13,8 +13,8 @@ body{
         #1f2937 0%,
         #1f2937 32%,
         white 32%,
-        white 62%,
-        #E5E7EB 62%,
+        white 65%,
+        #E5E7EB 65%,
         #E5E7EB 75%,
         white 75%,
         white 95%,
@@ -152,7 +152,7 @@ body{
     /*background: orange;*/
    justify-content:center;
    align-items:start;
-   gap:130px;
+   gap:115px;
 }
 
 .flexer{
@@ -169,11 +169,11 @@ body{
     justify-content:center;
     padding: 0;
     margin-left: 400px;
-    margin-top:0px;
+    margin-top:5px;
     list-style-type: none; 
     background: #3882F6;
     width:1200px;
-    height:150px;
+    height:120px;
    
 }
 .head {
