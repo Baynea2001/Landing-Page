@@ -13,8 +13,8 @@ body{
         #1f2937 0%,
         #1f2937 32%,
         white 32%,
-        white 65%,
-        #E5E7EB 65%,
+        white 62%,
+        #E5E7EB 62%,
         #E5E7EB 75%,
         white 75%,
         white 95%,
@@ -150,7 +150,6 @@ body{
     margin: 0px;
     list-style-type: none; 
     /*background: orange;*/
-    height:150px;
    justify-content:center;
    align-items:start;
    gap:130px;
@@ -223,7 +222,7 @@ body{
     flex-direction: row;
 }
 img {
-    height: 200px;
+    height: 180px;
     width: 400px;
     margin-top:0px;
     margin-left:50px;
