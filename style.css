@@ -169,7 +169,7 @@ body{
     justify-content:center;
     padding: 0;
     margin-left: 400px;
-    margin-top:20px;
+    margin-top:25px;
     list-style-type: none; 
     background: #3882F6;
     width:1200px;
@@ -215,7 +215,7 @@ body{
     align-items: center;
     color: purple;
     font-size: medium;
-    margin-top: 0px;
+    margin-top: 20px;
 }
 .big-flex{
     display:flex;
