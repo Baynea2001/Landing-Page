@@ -169,7 +169,7 @@ body{
     justify-content:center;
     padding: 0;
     margin-left: 400px;
-    margin-top:5px;
+    margin-top:20px;
     list-style-type: none; 
     background: #3882F6;
     width:1200px;
@@ -234,6 +234,6 @@ img {
     font-size: 36px;
     color:#1F2937;
     font-style:italic;
-    margin-top: 0px;
+    margin-top: 10px;
     padding: 0px;
 }
